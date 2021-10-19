@@ -27,7 +27,6 @@ int main(){
                 cnt+=1;
             }
         }
-        cout<<cnt<<endl;
     }
     else if(k==n && arr[k-1]!=0){
         cout<<n<<endl;
